@@ -11,8 +11,8 @@ Es una página web dedicada a la adopción de perros de distintas edades. Conten
 ## Descripción funcional
 La descripción funcional de la aplicación es ...
 
-### Funcionalidad 1
-Como administrador del albergue quiero llevar el control en cuanto a perros, adoptadores y ayudantes para conocer sus datos.
+### Administrador
+#Como administrador del albergue quiero llevar el control en cuanto a perros, adoptadores y ayudantes para conocer sus datos.
 
 ### Funcionalidad 2
 Como administrador del albergue quiero dar de alta a ayudantes para tener un control de cuantos hay en el albergue.
