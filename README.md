@@ -14,17 +14,18 @@ La descripción funcional de la aplicación es ...
 ### Administrador
 -  Como administrador del albergue quiero llevar el control en cuanto a perros, adoptadores y ayudantes para conocer sus datos.
 -  Como administrador del albergue quiero dar de alta a ayudantes para tener un control de cuantos hay en el albergue.
-### Funcionalidad 2
-Como administrador del albergue quiero dar de alta a ayudantes para tener un control de cuantos hay en el albergue.
+-  Como administrador quiero dar de alta las tareas que se tienen que hacer en el albergue para que los ayudantes escojan alguna tarea que esté disponible.
+-  Como administrador quiero saber la cantidad de perros que hay actualmente en el albergue para tener una idea en cuanto a gastos en recursos.
+
 
 ### Funcionalidad 3
 Como usuario quiero darme de alta para poder adoptar un perro.
 
 ### Funcionalidad 4
-Como administrador quiero dar de alta las tareas que se tienen que hacer en el albergue para que los ayudantes escojan alguna tarea que esté disponible.
+
 
 ### Funcionalidad 5
-Como administrador quiero saber la cantidad de perros que hay actualmente en el albergue para tener una idea en cuanto a gastos en recursos.
+
 
 ## Autor(es)
 El autor(es) del proyecto son:
