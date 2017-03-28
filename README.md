@@ -21,13 +21,14 @@ La descripción funcional de la aplicación es ...
 -  Como administrador quiero saber la cantidad de dinero en donaciones para poder pagar los gastos que produce el albergue.
 
 
-### Funcionalidad 3
-Como usuario quiero darme de alta para poder adoptar un perro.
+### Usuarios
+-  Como usuario quiero darme de alta para poder adoptar un perro.
+-  Como usuario quiero saber que perros se encuentran actualmente disponibles en el albergue para saber cual puedo adoptar.
+-  Como usuario quiero conocer los datos del perro para poder tomar una decisión de cual perro se ajusta a mis necesidades, recursos y presupuesto para poder adoptarlo.
 
-### Funcionalidad 4
-
-
-### Funcionalidad 5
+### Ayudante
+-  Como ayudante quiero saber cuáles actividades o tareas están pendientes o disponibles para poder trabajar en ello.
+-  Como ayudante quiero saber la dirección de las personas que han adoptado algún perro para poder verificar (visitar a domicilio) que la mascota se encuentre en buen estado.
 
 
 ## Autor(es)
