@@ -42,8 +42,8 @@ El autor(es) del proyecto son:
 ## Semestre
 - 2016-2017/II
 
-## Markdown
+## Universidad Autonoma de San Luis Potosi 
 El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
 
-## Temas de Jekyll
+## Facultad de Ingenieria
 El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
