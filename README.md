@@ -1,6 +1,6 @@
 # FootprintsAndBarks
 
-![Albergue](https://github.com/acominf/FootprintsAndBarks/blob/master/docs/wof.png)
+![Albergue](https://github.com/acominf/FootprintsAndBarks/blob/master/docs/wof_opt.png)
 
 ## Objetivo de la aplicación
 Desarrollar una pagina web para desarrollar las herramientas vistas en la materia de tecnologias web.
