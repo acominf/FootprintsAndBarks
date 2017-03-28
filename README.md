@@ -42,9 +42,9 @@ El autor(es) del proyecto son:
 - 2016-2017/II
 
 ## Datos
-Universidad Autónoma de San Luis Potosí
-Facultad de ingeniería
-Área de Computación e Informática
+Universidad Autónoma de San Luis Potosí\n
+Facultad de ingeniería\n
+Área de Computación e Informática\n
 Materia: Tecnologías Web
 Integrantes: Juan Carlos Rangel Ramírez y Cesar Emanuel Sánchez López
 Profesor: M.C Froylán Eloy Hernández Castro
