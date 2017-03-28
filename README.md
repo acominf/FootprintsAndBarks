@@ -12,29 +12,28 @@ Es una página web dedicada a la adopción de perros de distintas edades. Conten
 La descripción funcional de la aplicación es ...
 
 ### Administrador
--  Como administrador del albergue quiero llevar el control en cuanto a perros, adoptadores y ayudantes para conocer sus datos.
--  Como administrador del albergue quiero dar de alta a ayudantes para tener un control de cuantos hay en el albergue.
--  Como administrador quiero dar de alta las tareas que se tienen que hacer en el albergue para que los ayudantes escojan alguna tarea que esté disponible.
--  Como administrador quiero saber la cantidad de perros que hay actualmente en el albergue para tener una idea en cuanto a gastos en recursos.
--  Como administrador quiero saber la cantidad de ayudantes que existen actualmente en el albergue para tomar una decisión de solicitar más ayudantes o con los que contamos actualmente.
--  Como administrador quiero saber el historial de las personas que han adoptado un perro para ver como lo han tratado.
--  Como administrador quiero saber la cantidad de dinero en donaciones para poder pagar los gastos que produce el albergue.
+-  Llevar el control en cuanto a perros, adoptadores y ayudantes para conocer sus datos.
+-  Poder dar de alta a ayudantes para tener un control de cuantos hay en el albergue.
+-  Poder dar de alta las tareas que se tienen que hacer en el albergue para que los ayudantes escojan alguna que esté disponible.
+-  Conocer la cantidad de perros que hay actualmente en el albergue para tener una estimación en cuanto a gastos.
+-  Conocer la cantidad de ayudantes que existen actualmente en el albergue para tomar una decisión de solicitar más ayudantes o con los que contamos actualmente.
+-  Conocer el historial de las personas que han adoptado un perro para saber como lo han tratado.
+-  Tener conocimiento de la  cantidad de dinero en donaciones para poder pagar los gastos que produce el albergue.
 
 
 ### Usuarios
--  Como usuario quiero darme de alta para poder adoptar un perro.
--  Como usuario quiero saber que perros se encuentran actualmente disponibles en el albergue para saber cual puedo adoptar.
--  Como usuario quiero conocer los datos del perro para poder tomar una decisión de cual perro se ajusta a mis necesidades, recursos y presupuesto para poder adoptarlo.
+-  Registarse en el sistema para poder adoptar un perro.
+-  Conocer que perros se encuentran actualmente disponibles en el albergue.
+-  Conocer los datos del perro para poder tomar una decisión de cual perro se ajusta a mis necesidades, recursos y presupuesto.
 
 ### Ayudante
--  Como ayudante quiero saber cuáles actividades o tareas están pendientes o disponibles para poder trabajar en ello.
--  Como ayudante quiero saber la dirección de las personas que han adoptado algún perro para poder verificar (visitar a domicilio) que la mascota se encuentre en buen estado.
-
+-  Saber cuáles actividades o tareas están pendientes o disponibles para poder trabajar en ello.
+-  Conocer la dirección de las personas que han adoptado algún perro para poder verificar (visitar a domicilio) que la mascota se encuentre en buen estado.
 
 ## Autor(es)
 El autor(es) del proyecto son:
 - Cesar Emmanuel Sanchez Lopez (@Cands20)
-- Juan Carlos Rangel Ramirez (@CarlosUASLP)
+- Juan Carlos Rangel Ramírez (@CarlosUASLP)
 
 ## Materia(s)
 - Tecnologías Web
@@ -42,7 +41,13 @@ El autor(es) del proyecto son:
 ## Semestre
 - 2016-2017/II
 
-## Universidad Autonoma de San Luis Potosi 
+## Datos
+Universidad Autónoma de San Luis Potosí
+Facultad de ingeniería
+Área de Computación e Informática
+Materia: Tecnologías Web
+Integrantes: Juan Carlos Rangel Ramírez y Cesar Emanuel Sánchez López
+Profesor: M.C Froylán Eloy Hernández Castro
 El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
 
 ## Facultad de Ingenieria
