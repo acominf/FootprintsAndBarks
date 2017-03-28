@@ -42,12 +42,12 @@ El autor(es) del proyecto son:
 - 2016-2017/II
 
 ## Datos
-Universidad Autónoma de San Luis Potosí\n
-Facultad de ingeniería\n
-Área de Computación e Informática\n
-Materia: Tecnologías Web
-Integrantes: Juan Carlos Rangel Ramírez y Cesar Emanuel Sánchez López
-Profesor: M.C Froylán Eloy Hernández Castro
+Universidad Autónoma de San Luis Potosí, 
+Facultad de ingeniería, 
+Área de Computación e Informática, 
+Materia: Tecnologías Web, 
+Integrantes: Juan Carlos Rangel Ramírez y Cesar Emanuel Sánchez López, 
+Profesor: M.C Froylán Eloy Hernández Castro.
 El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
 
 ## Facultad de Ingenieria
