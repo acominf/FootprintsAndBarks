@@ -1,6 +1,6 @@
 # FootprintsAndBarks
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![Albergue](https://www.google.com.mx/search?q=wof&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMvtfQ6vnSAhUBz2MKHa2CDcMQ_AUIBygC&biw=1920&bih=974#imgrc=FQhRXMXlAo-CPM:)
 
 ## Objetivo de la aplicación
 Desarrollar una pagina web para desarrollar las herramientas vistas en la materia de tecnologias web.
