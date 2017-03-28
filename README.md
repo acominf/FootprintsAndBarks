@@ -28,8 +28,8 @@ La descripción de la funcionalidad 5 es ...
 
 ## Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Cesar Emmanuel Sanchez Lopez (@Cands20)
+- Juan Carlos Rangel Ramirez (@CarlosUASLP)
 
 ## Materia(s)
 - Tecnologías Web
