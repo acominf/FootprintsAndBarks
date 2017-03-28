@@ -3,10 +3,10 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ## Objetivo de la aplicación
-El objetivo de la aplicación es ...
+Desarrollar una pagina web para desarrollar las herramientas vistas en la materia de tecnologias web.
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+Es una página web dedicada a la adopción de perros de distintas edades. Contendrá varios espacios como Historia del albergue, objetivo, misión y visión. Un área dedicada al registro de todos los perros que se encuentran en el albergue, los datos que se podrán registrar son: ID (identificador del perro), nombre del perro, sexo, fecha de nacimiento, color, raza, estado (adoptado o no adoptado aún). También un área dedicada a todas las personas que han adoptado a un perro dentro del albergue para poder llevar su historial. Los datos que almacenaremos de las personas son: ID (identificador de la persona), nombre de la persona, fecha de nacimiento, domicilio, colonia, municipio, teléfono, ingresos mensuales, ocupación e ID (de la mascota que adoptó). Como todo albergue para su mantenimiento necesitamos personal, así que también contará con un área de registro para el personal, los datos que necesitamos son: ID (identificador del personal), nombre de la persona, dirección, colonia, municipio, teléfono y ocupación. ¿Por qué ocupación? Pensamos poder aceptar a estudiantes para hacer prácticas profesionales o servicio social. 
 
 ## Descripción funcional
 La descripción funcional de la aplicación es ...
