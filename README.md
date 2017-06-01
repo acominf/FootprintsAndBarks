@@ -41,7 +41,7 @@ El autor(es) del proyecto son:
 - Tecnologías Web
 
 ## Link para ver el video
-<iframe src="https://www.youtube.com/embed/hvhOKbXcmGk"  width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/hvhOKbXcmGk"  width="560" height="315" frameborder="0" allowfullscreen alt="video"></iframe>
 
 ## Semestre
 - 2016-2017/II
