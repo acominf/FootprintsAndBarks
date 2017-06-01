@@ -10,13 +10,13 @@ Es una página web dedicada a la adopción de perros de distintas edades. Conten
 
 ## Descripción funcional
 La descripción funcional de la aplicación es ...
-### Diagrama entidad-relación
+## Diagrama entidad-relación
 <img src="https://raw.githubusercontent.com/acominf/FootprintsAndBarks/master/entidad-relacion.jpeg" width="560" height="315" alt="Diagrama E-R">
-### Diagrama componentes UML
+## Diagrama componentes UML
 
 <img src="https://raw.githubusercontent.com/acominf/FootprintsAndBarks/master/diagram%20componentes.png" width="560" height="315" alt="Diagrama componentes UML">
 
-### Administrador
+## Administrador
 -  Llevar el control en cuanto a perros, adoptadores y ayudantes para conocer sus datos.
 -  Poder dar de alta a ayudantes para tener un control de cuantos hay en el albergue.
 -  Poder dar de alta las tareas que se tienen que hacer en el albergue para que los ayudantes escojan alguna que esté disponible.
@@ -26,12 +26,12 @@ La descripción funcional de la aplicación es ...
 -  Tener conocimiento de la  cantidad de dinero en donaciones para poder pagar los gastos que produce el albergue.
 
 
-### Usuarios
+## Usuarios
 -  Registarse en el sistema para poder adoptar un perro.
 -  Conocer que perros se encuentran actualmente disponibles en el albergue.
 -  Conocer los datos del perro para poder tomar una decisión de cual perro se ajusta a mis necesidades, recursos y presupuesto.
 
-### Ayudante
+## Ayudante
 -  Saber cuáles actividades o tareas están pendientes o disponibles para poder trabajar en ello.
 -  Conocer la dirección de las personas que han adoptado algún perro para poder verificar (visitar a domicilio) que la mascota se encuentre en buen estado.
 
