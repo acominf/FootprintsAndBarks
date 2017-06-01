@@ -1,7 +1,6 @@
 # FootprintsAndBarks
 
-![Albergue](https://github.com/acominf/FootprintsAndBarks/blob/master/docs/wof_opt.png)
-<img src="https://raw.githubusercontent.com/acominf/FootprintsAndBarks/master/entidad-relacion.jpeg" width="560" height="315" alt="Diagrama E-R">
+<img src="https://raw.githubusercontent.com/acominf/FootprintsAndBarks/master/docs/wof_opt.png" width="560" height="315" alt="Imagen WOF">
 
 ## Objetivo de la aplicación
 Desarrollar una pagina web para desarrollar las herramientas vistas en la materia de tecnologias web.
