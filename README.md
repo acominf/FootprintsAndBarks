@@ -12,6 +12,9 @@ Es una página web dedicada a la adopción de perros de distintas edades. Conten
 La descripción funcional de la aplicación es ...
 ### Diagrama entidad-relación
 <img src="https://raw.githubusercontent.com/acominf/FootprintsAndBarks/master/entidad-relacion.jpeg" width="560" height="315" alt="Diagrama E-R">
+### Diagrama componentes UML
+
+<img src="https://raw.githubusercontent.com/acominf/FootprintsAndBarks/master/diagram%20componentes.png" width="560" height="315" alt="Diagrama componentes UML">
 
 ### Administrador
 -  Llevar el control en cuanto a perros, adoptadores y ayudantes para conocer sus datos.
